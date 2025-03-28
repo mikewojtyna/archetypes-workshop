@@ -1,4 +1,4 @@
-package pl.wojtyna.archetypes.templateandexecution.acceptance.api.eventpolicies;
+package pl.wojtyna.archetypes.templateandexecution.acceptance.api.policies;
 
 import pl.wojtyna.archetypes.templateandexecution.acceptance.domain.DraftRepository;
 import pl.wojtyna.archetypes.templateandexecution.collaborativeconstruction.DraftCreated;

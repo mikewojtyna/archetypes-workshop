@@ -1,4 +1,4 @@
-package pl.wojtyna.archetypes.inventory.capacity.api.eventpolicies;
+package pl.wojtyna.archetypes.inventory.capacity.api.policies;
 
 import pl.wojtyna.archetypes.inventory.catalog.api.usecases.HoldOffer;
 import pl.wojtyna.archetypes.inventory.catalog.api.usecases.ReplenishOffer;

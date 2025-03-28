@@ -1,4 +1,4 @@
-package pl.wojtyna.archetypes.templateandexecution.execution.api.eventpolicies;
+package pl.wojtyna.archetypes.templateandexecution.execution.api.policies;
 
 import pl.wojtyna.archetypes.templateandexecution.acceptance.domain.DocumentPrepared;
 
